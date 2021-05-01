@@ -1,0 +1,5 @@
+this is a first file and now i made my changes
+time klo 12:26 en taidan hakea kohta pyykit..
+
+git is tracking changes
+i made a change 20.3.2021 klo 4:07
