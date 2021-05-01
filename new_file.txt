@@ -1,4 +1,4 @@
-this is a first file and now i made my changes
+this is a third change file and now i made my changes
 time klo 12:26 en taidan hakea kohta pyykit..
 
 git is tracking changes
